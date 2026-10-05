@@ -29,8 +29,8 @@ import siteTeam from "./assets/leadership-team.jpg";
 import projectLekki from "./assets/project-singapore.jpg";
 import projectMaitama from "./assets/project-singapore.jpg";
 
-const COMPANY = "cornerstone";
-const COMPANY_LEGAL = "Cornerstone Construction Ltd";
+const COMPANY = "Menterosa";
+const COMPANY_LEGAL = "Menterosa Construction Ltd";
 const PHONE = "+234 800 000 0000";
 const EMAIL = "hello@cornerstone.ng";
 
